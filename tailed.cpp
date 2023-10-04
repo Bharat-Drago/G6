@@ -11,6 +11,6 @@ void fun(int n){
 int main(){
 	int n=10;
 	fun(10);
-	cout<<"well done";
+	
 	return 0;
 }
